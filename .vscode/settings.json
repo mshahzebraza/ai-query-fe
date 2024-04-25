@@ -1,0 +1,14 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "editor.indentSize": "tabSize",
+  "editor.detectIndentation": false,
+  "editor.unfoldOnClickAfterEndOfLine": false,
+  "files.trimFinalNewlines": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
